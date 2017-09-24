@@ -2,6 +2,7 @@
 
 Current build status: [![Build Status](https://semaphoreci.com/api/v1/codepipes/java-testing-with-spock/branches/master/badge.svg)](https://semaphoreci.com/codepipes/java-testing-with-spock)
 
+<img src="https://avatars1.githubusercontent.com/u/17320625" />
 
 <img src="http://codepipes.com/book/java-testing-with-spock-book.jpg" alt="Java Testing with book cover" width="297" height="375"/>
 
